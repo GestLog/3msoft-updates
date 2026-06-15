@@ -1,0 +1,9 @@
+; 3MSOFT Update Manifest
+; No updates available yet
+
+[Update]
+Name = 3MSOFT
+ProductVersion = 0.0.0.0
+URL = https://github.com
+SHA256 = 0
+Size = 0
