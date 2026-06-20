@@ -2,11 +2,11 @@
 
 [Update]
 Name = MIDAR
-ProductVersion = 1.0.1.8
-URL = https://github.com/GestLog/3msoft-updates/releases/download/v1.0.1.8/MIDAR.msi
-Size = 104666624
-SHA256 = F57F1765AEDB1A0AB4C2AAD6A15205946E29AD87C3E73BFC7B233AC3255B9BAF
-MD5 = c3bc3abc00098da2577d91c4dde57ce6
-ServerFileName = MIDAR.msi
+ProductVersion = 1.0.1.10
+URL = https://github.com/GestLog/3msoft-updates/releases/download/v1.0.1.10/MIDAR.exe
+Size = 468288235
+SHA256 = BD93EFE1473CA48332B982B09A7AA0F84C6974499B933442FB95A44BBD9A8ABA
+MD5 = 6d7c224c02f472e486681117a562d64e
+ServerFileName = MIDAR.exe
 RegistryKey = HKUD\Software\3BB\MIDAR\Version
-Version = 1.0.1.8
+Version = 1.0.1.10
